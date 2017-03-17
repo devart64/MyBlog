@@ -1,4 +1,9 @@
 {
+  "name": "monark/myblog",
+  "license": "MIT",
+  "type": "project",
+  "description": "Blog php poo",
+  
   "require": {
     "monolog/monolog": "1.0.2",
     "doctrine/orm": "2.5.6"
