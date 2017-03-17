@@ -1,6 +1,6 @@
 {
   "require": {
     "monolog/monolog": "1.0.*",
-    "doctrine/orm": "*"
+    "doctrine/orm": "2.5.6"
   }
 }
